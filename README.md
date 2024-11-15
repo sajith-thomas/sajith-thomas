@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sajith 👨‍💻
 
-Welcome to my GitHub profile! , I'm passionate about software development, particularly in **Python**, **Django**, and **web development** technologies, and I'm always eager to learn and grow in the field.
+Welcome to my GitHub profile! , I'm passionate about software development, and I'm always eager to learn and grow in the field.
 
 ---
 ### 🚀 About Me
