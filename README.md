@@ -8,7 +8,7 @@ Welcome to my GitHub profile! , I'm passionate about software development, parti
 - 🌐 Currently working on python projects
 - 🔍 Exploring **Python**, **Java** **SQL**, and **HTML**
 - 💡 I
-- 📫 How to reach me: [Linkedin](mailto:https://www.linkedin.com/in/sajith-thomas)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sajith-thomas)
 
   ### 🛠️ My Skill Set
 
