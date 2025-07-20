@@ -12,7 +12,3 @@ Welcome to my GitHub profile! , I'm passionate about software development, and I
 
 
 
-<!---
-sajith-thomas/sajith-thomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
