@@ -1,13 +1,11 @@
-# Hi there! 👋 I'm Sajith 👨‍💻
-
-Welcome to my GitHub profile! , I'm passionate about software development, and I'm always eager to learn and grow in the field.
+# Hey there! 👋 I'm a Tech Enthusiastic 👨‍💻
 
 ---
-### 🚀 About Me
+### ✴️ who I'm 
 - 🧑‍🎓 ....
 - 🌐 Currently working on python projects
 - 🔍 Exploring **Python**, **Linux**, **MySQL**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sajith-thomas/)
+- 📫 Connect me: [Linkedin](https://www.linkedin.com/in/sajith-thomas/)
 
 
 
