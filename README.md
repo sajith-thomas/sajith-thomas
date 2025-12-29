@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm a Tech Enthusiastic 👨‍💻
+# Hey there! 👋 I'm a Tech Enthusiast 👨‍💻
 
 ---
 ### ✴️ who I'm 
