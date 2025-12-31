@@ -3,8 +3,8 @@
 ---
 ### ✴️ who I'm 
 - 🧑‍🎓 ....
-- 🌐 Currently working on python projects
-- 🔍 Exploring **Python**, **Linux**, **MySQL**
+- 🌐 Currently working on python and ML projects
+- 🔍 Exploring **Python**, **Linux**, **MySQL** etc...
 - 📫 Connect me: [Linkedin](https://www.linkedin.com/in/sajith-thomas/)
 
 
